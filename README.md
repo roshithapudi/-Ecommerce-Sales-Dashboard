@@ -32,11 +32,11 @@ Built an interactive dashboard to visualize key insights from the dataset.
 
 ![Dashboard](dashboard-overview.png.png)
 
-### Sales Analysis Pivot Table
+### Sales Analysis Pivot Table - 1 
 
 ![Sales Analysis](sales-analysis-pivot.png.png)
 
-### Customer Analysis Pivot Table
+###  Pivot Table - 2
 
 ![Customer Analysis](customer-analysis-pivot.png.png)
 
@@ -57,7 +57,7 @@ Built an interactive dashboard to visualize key insights from the dataset.
 
 **Pudi Roshitha**
 
-Computer Science Student | Learning Data Analytics
+Data Science Student | Learning Data Analytics
 
 Excel • SQL • Python • Power BI
 
