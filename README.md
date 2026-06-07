@@ -1,56 +1,63 @@
-**📊 E-Commerce Sales Dashboard**
+# 📊 E-Commerce Sales Dashboard
 
- **📌 Project Overview**
+## 📌 Project Overview
 
-This project analyzes e-commerce sales data using Microsoft Excel. The goal was to transform raw sales data into meaningful business insights through data cleaning, Pivot Tables, and an interactive dashboard.
+This project analyzes e-commerce sales data using Microsoft Excel. The dashboard was created to transform raw sales data into meaningful business insights through data cleaning, Pivot Tables, and data visualization.
 
-🛠 Tools Used
+## 🛠 Tools Used
 
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Data Cleaning
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Data Cleaning
+* Dashboard Design
 
-📈 Project Workflow
+## 📈 Project Workflow
 
- 1️⃣ Data Cleaning
-- Removed inconsistencies and prepared the dataset for analysis
-- Organized data for accurate reporting
+### 1️⃣ Data Cleaning
 
- 2️⃣ Data Analysis
-- Created Pivot Tables to analyze sales performance
-- Explored customer and product trends
+Prepared and cleaned the dataset to ensure accurate analysis and reporting.
 
- 3️⃣ Dashboard Creation
-- Built an interactive dashboard
-- Used charts and filters for better visualization
+### 2️⃣ Data Analysis
 
- 📷 Project Screenshots
+Created Pivot Tables to analyze sales trends and business performance.
 
-Dashboard Overview
-![Dashboard](dashboard-overview.png)
+### 3️⃣ Dashboard Creation
 
- Sales Analysis Pivot Table
-![Sales Analysis](sales-analysis-pivot.png)
+Built an interactive dashboard to visualize key insights from the dataset.
 
- Customer Analysis Pivot Table
-![Customer Analysis](customer-analysis-pivot.png)
+## 📷 Project Screenshots
 
- Data Cleaning Process
-![Data Cleaning](data-cleaning-process.png)
+### Dashboard Overview
 
-🎯 Skills Demonstrated
+![Dashboard](dashboard-overview.png.png)
 
-- Data Cleaning
-- Data Analysis
-- Pivot Tables
-- Data Visualization
-- Dashboard Design
-- Business Insights
+### Sales Analysis Pivot Table
 
-👩‍💻 Author
+![Sales Analysis](sales-analysis-pivot.png.png)
 
-**Pudi Roshitha**  
-Data Science Student | Learning Data Analytics  
+### Customer Analysis Pivot Table
+
+![Customer Analysis](customer-analysis-pivot.png.png)
+
+### Data Cleaning Process
+
+![Data Cleaning](data-cleaning-process.png.png)
+
+## 🎯 Skills Demonstrated
+
+* Data Cleaning
+* Data Analysis
+* Pivot Tables
+* Dashboard Design
+* Data Visualization
+* Business Insights
+
+## 👩‍💻 Author
+
+**Pudi Roshitha**
+
+Computer Science Student | Learning Data Analytics
+
 Excel • SQL • Python • Power BI
+
